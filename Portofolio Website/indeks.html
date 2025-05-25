@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Portfolio Website</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body class="bg-gradient-to-b from-green-500 to-green-800 text-white">
+    <!-- Sticky container for navbar and profile image -->
+    <div class="sticky top-0 z-50">
+        <!-- Navigation menu -->
+        <nav class="bg-gray-700 py-2 fixed w-full top-0 left-0 z-50 h-20">
+            <div class="container flex justify-between items-center my-5">
+                <div class="text-xl font-bold ml-40">
+                      Sakti Cristopel Lingga
+                  </div>
+                <div class="flex space-x-4">
+                    <a class="hover:bg-gray-800 text-white px-4 py-2 
+                              no-underline transition duration-300 
+                              bg-transparent hover:bg-gray-700"
+                        href="#about">About</a>
+                    <a class="hover:bg-gray-800 text-white px-4 py-2 
+                              no-underline transition duration-300 
+                              bg-transparent hover:bg-gray-700"
+                        href="#projects">Projects</a>
+                    <a class="hover:bg-gray-800 text-white px-4 py-2 
+                              no-underline transition duration-300 
+                              bg-transparent hover:bg-gray-700"
+                        href="#skills">Skills</a>
+                    <a class="hover:bg-gray-800 text-white px-4 py-2 
+                              no-underline transition duration-300 
+                              bg-transparent hover:bg-gray-700"
+                        href="#contact">Contact</a>
+                </div>
+            </div>
+        </nav>
+
+        <!-- Profile image -->
+        <div class="relative">
+            <div class="w-36 h-36 rounded-full bg-white absolute top-0 
+                        left-1/2 transform -translate-x-1/2 z-50">
+                <img alt="imagefProfile" 
+                     class="w-36 h-36 rounded-full border-4 border-green-600"
+                     src="profil website.jpeg" />
+            </div>
+        </div> <!-- White circle for profile image -->
+    </div>
+
+    <!-- Main content -->
+    <div class="mb-16 container mx-auto pt-20">
+        <!-- About section -->
+        <section id="about"
+            class="m-20 justi-center text-center mt-20 relative 
+                   my-5 mb-16 px-4 py-4 rounded-lg shadow-md relative 
+                   overflow-hidden bg-gradient-to-b from-gray-600 to-gray-800">
+            <h2 class="text-2xl font-bold mb-4 text-center">
+                  About me
+              </h2>
+            <p class="text-base">
+                  Saya tertarik mendalami pengembangan web, khususnya di bidang front-end menggunakan teknologi
+                   seperti HTML, CSS, dan JavaScript. Saya juga mulai mengeksplorasi React dan Node.js untuk pengembangan full-stack.
+                   Ke depan, saya ingin berkarier di industri teknologi sebagai software developer yang 
+                   mampu menciptakan solusi inovatif dan bermanfaat. Saya terbuka untuk kesempatan magang maupun 
+                   kolaborasi proyek yang menantang dan edukatif.
+              </p>
+            <a
+                class="inline-block mt-5 px-4 py-2 rounded-md bg-green-500 
+                       text-white hover:bg-blue-600 transition duration-300">
+                  Resume
+              </a>
+        </section>
+
+        <!-- Projects section -->
+       
+<section id="projects"
+    class="m-20 p-10 rounded-lg shadow-md text-white relative overflow-hidden rounded mb-16 bg-gradient-to-b from-gray-600 to-gray-800">
+    <h2 class="text-2xl font-bold mb-10 text-center">My Projects</h2>
+    
+    <!-- Single Project -->
+    <div class="bg-gray-700 rounded-lg p-5 shadow-md hover:shadow-xl transition max-w-xl mx-auto">
+        <h3 class="text-xl font-semibold mb-2">Test Mata Pintar</h3>
+        <p class="text-sm mb-3">.</p>
+        <p>Apa itu Tes Mata Pintar?
+Tes Mata Pintar merupakan sebuah aplikasi tes buta warna dan rabun mata. Bermula dari ide empat mahasiswa informatika Universitas Siber Asia untuk memenuhi tugas ICT Literacy dan kebutuhan akan hasil tes mata yang dapat dijangkau oleh masyarakat umum tanpa memandang kelas sosial. Dimana pada zaman sekarang, kesehatan mata sangat penting untuk persyaratan masuk kedalam dunia kerja.
+Disini, kami menawarkan kemudahan yang mana hanya dalam satu aplikasi, pengguna dapat melakukan dua tes mata sekaligus dengan gratis tanpa pungutan biaya apapun.
+Berikut link menuju aplikasi nya : https://tes-mata-pintar.vercel.app/ </p>
+        <a href="#" class="text-green-400 hover:text-blue-400 transition">https://tes-mata-pintar.vercel.app/</a>
+    </div>
+</section>
+
+
+
+        <!-- Contact section -->
+        <section id="contact"
+            class="m-20 p-10 rounded-lg shadow-md text-white relative 
+                   overflow-hidden rounded mb-16 bg-gradient-to-b 
+                   from-gray-600 to-gray-800 flex">
+            <div class="w-1/2">
+                <h2 class="mb-20 text-2xl leading-6 font-bold mb-4">
+                      Contact Me
+                  </h2>
+                <!-- Contact details -->
+                <p>Email: sakticristopellingga@com</p>
+                <p>Phone: +62 821 6259 7732</p>
+                <!-- Hire Me button -->
+                <a href="#"
+                    class="inline-block px-4 my-5 py-2 rounded-md bg-green-500 
+                           text-white hover:bg-blue-600 transition duration-300">
+                      Hire Me</a>
+                <!-- Social media links -->
+                <div class="flex items-center space-x-4 mt-5">
+                    <!-- LinkedIn -->
+                    <a href="#"
+                        class="inline-block px-4 py-2 rounded-md bg-green-500 
+                               text-white hover:bg-blue-600 transition duration-300">
+                      LinkedIn</a>
+                    <!-- GitHub -->
+                    <a href="#"
+                        class="inline-block px-4 py-2 rounded-md bg-green-500 
+                               text-white hover:bg-blue-600 transition duration-300">
+                      GitHub</a>
+                    <!-- Twitter -->
+                    <a href="#"
+                        class="inline-block px-4 py-2 rounded-md bg-green-500 
+                               text-white hover:bg-blue-600 transition duration-300">
+                      Twitter</a>
+                </div>
+            </div>
+            <div class="w-1/2">
+                <!-- Image section -->
+                <img 
+                    src="profil website.jpeg" 
+                    alt="Sakti Cristopel Lingga"
+                    class="w-72 h-72 mx-auto">
+            </div>
+        </section>
+    </div>
+</body>
+
+</html>

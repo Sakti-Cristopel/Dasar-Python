@@ -3,8 +3,8 @@
 ## Identitas Mahasiswa
 
 * Nama: Sakticristopel Lingga
-* NIM: [Isi NIM]
-* Kelas: [Isi Kelas]
+* NIM: [2404010125]
+* Kelas: [IF403]
 * Program Studi: Informatika
 
 ## Tentang Repository
@@ -17,32 +17,12 @@ Selama praktikum, saya mempelajari berbagai tahapan dalam proyek Data Science, m
 ## Daftar Pertemuan
 
 * **Pertemuan 1 – Pengenalan Data Science**
-
-  * Notebook: [Pertemuan1_Nama_NIM.ipynb](./Pertemuan1_Nama_NIM.ipynb)
-
 * **Pertemuan 2 – Exploratory Data Analysis (EDA)**
-
-  * Notebook: [Pertemuan2_Nama_NIM.ipynb](./Pertemuan2_Nama_NIM.ipynb)
-
 * **Pertemuan 3 – Data Cleaning**
-
-  * Notebook: [Pertemuan3_Nama_NIM.ipynb](./Pertemuan3_Nama_NIM.ipynb)
-
 * **Pertemuan 4 – Statistika Dasar dan Analisis Data**
-
-  * Notebook: [Pertemuan4_Nama_NIM.ipynb](./Pertemuan4_Nama_NIM.ipynb)
-
 * **Pertemuan 5 – Visualisasi Data**
-
-  * Notebook: [Pertemuan5_Nama_NIM.ipynb](./Pertemuan5_Nama_NIM.ipynb)
-
 * **Pertemuan 6 – Data Preprocessing**
-
-  * Notebook: [Pertemuan6_Nama_NIM.ipynb](./Pertemuan6_Nama_NIM.ipynb)
-
 * **Pertemuan 7 – Regresi Linear**
-
-  * Notebook: [Pertemuan7_Nama_NIM.ipynb](./Pertemuan7_Nama_NIM.ipynb)
 
 ## Tools dan Library
 

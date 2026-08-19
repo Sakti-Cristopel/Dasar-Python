@@ -23,12 +23,17 @@ Selama praktikum, saya mempelajari berbagai tahapan dalam proyek Data Science, m
 * **Pertemuan 5 – Visualisasi Data**
 * **Pertemuan 6 – Data Preprocessing**
 * **Pertemuan 7 – Regresi Linear**
-* **Pertemuan   9: Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees,
-  Confusion Matrix, Accuracy, Precision, Recall, F1-Score
-
-
-
-
+* **Pertemuan 9: Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees,
+  Confusion Matrix, Accuracy, Precision, Recall, F1-Score**
+* **Pertemuan 10: Algoritma Klasifikasi (Bagian 2): Metode Ensemble (Random Forest) dan
+  penanganan Imbalanced Dataset**
+* **Pertemuan 11: Unsupervised Learning (Clustering): K-Means, Hierarchical Clustering,
+  Metode Elbow**
+* **Pertemuan 12: Asosiasi Data & Sistem Rekomendasi Dasar: Algoritma Apriori,
+  Collaborative/Content-Based Filtering**
+* **Pertemuan 13: Pengantar Deep Learning & NLP Dasar: Artificial Neural Network, TF-
+  IDF, Analisis Sentimen**
+  
 ## Tools dan Library
 
 * Python

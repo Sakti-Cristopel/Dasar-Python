@@ -23,6 +23,11 @@ Selama praktikum, saya mempelajari berbagai tahapan dalam proyek Data Science, m
 * **Pertemuan 5 – Visualisasi Data**
 * **Pertemuan 6 – Data Preprocessing**
 * **Pertemuan 7 – Regresi Linear**
+* **Pertemuan   9: Algoritma Klasifikasi (Bagian 1): Logistic Regression, Decision Trees,
+  Confusion Matrix, Accuracy, Precision, Recall, F1-Score
+
+
+
 
 ## Tools dan Library
 
